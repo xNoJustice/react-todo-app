@@ -1,6 +1,6 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-todo-app/blob/bdce1c84776ba52e0dda5f65de9cc89a052c7fce/todoapp1.gif" alt="" />
 
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-todo-app/blob/bdce1c84776ba52e0dda5f65de9cc89a052c7fce/todoapp2.gif" alt="" />
 
 # Getting Started with Create React App
 
